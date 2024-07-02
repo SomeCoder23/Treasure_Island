@@ -1,0 +1,1610 @@
+fileFormatVersion: 2
+guid: b2cf06612d923d6438d12b0d3a2c7ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StoneWalkpath_0
+  - first:
+      213: 21300002
+    second: StoneWalkpath_1
+  - first:
+      213: 21300004
+    second: StoneWalkpath_2
+  - first:
+      213: 21300006
+    second: StoneWalkpath_3
+  - first:
+      213: 21300008
+    second: StoneWalkpath_4
+  - first:
+      213: 21300010
+    second: StoneWalkpath_5
+  - first:
+      213: 21300012
+    second: StoneWalkpath_6
+  - first:
+      213: 21300014
+    second: StoneWalkpath_7
+  - first:
+      213: 21300016
+    second: StoneWalkpath_8
+  - first:
+      213: 21300018
+    second: StoneWalkpath_9
+  - first:
+      213: 21300020
+    second: StoneWalkpath_10
+  - first:
+      213: 21300022
+    second: StoneWalkpath_11
+  - first:
+      213: 21300024
+    second: StoneWalkpath_12
+  - first:
+      213: 21300026
+    second: StoneWalkpath_13
+  - first:
+      213: 21300028
+    second: StoneWalkpath_14
+  - first:
+      213: 21300030
+    second: StoneWalkpath_15
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      213: 2464431661349095767
+    second: Pipeline_StoneWalkpath_0
+  - first:
+      213: -2243680866200452403
+    second: Pipeline_StoneWalkpath_1
+  - first:
+      213: 8218594754092301031
+    second: Pipeline_StoneWalkpath_2
+  - first:
+      213: 4622140815304628736
+    second: Pipeline_StoneWalkpath_3
+  - first:
+      213: -1256192708038730424
+    second: Pipeline_StoneWalkpath_4
+  - first:
+      213: -2097421789461258261
+    second: Pipeline_StoneWalkpath_5
+  - first:
+      213: -7891735890183331047
+    second: Pipeline_StoneWalkpath_6
+  - first:
+      213: -8770930631672181325
+    second: Pipeline_StoneWalkpath_7
+  - first:
+      213: 1435843114160714799
+    second: Pipeline_StoneWalkpath_8
+  - first:
+      213: -4563498851045504136
+    second: Pipeline_StoneWalkpath_9
+  - first:
+      213: 5245184185580973856
+    second: Pipeline_StoneWalkpath_10
+  - first:
+      213: -3505096889162205481
+    second: Pipeline_StoneWalkpath_11
+  - first:
+      213: -5828743724710129091
+    second: Pipeline_StoneWalkpath_12
+  - first:
+      213: -6591406450595845294
+    second: Pipeline_StoneWalkpath_13
+  - first:
+      213: -8660361982697020089
+    second: Pipeline_StoneWalkpath_14
+  - first:
+      213: -862530557615411191
+    second: Pipeline_StoneWalkpath_15
+  - first:
+      213: -5054149514072085861
+    second: Pipeline_StoneWalkpath_16
+  - first:
+      213: -6107429355954235110
+    second: Pipeline_StoneWalkpath_17
+  - first:
+      213: 3510823999023133336
+    second: Pipeline_StoneWalkpath_18
+  - first:
+      213: 4747955032470211712
+    second: Pipeline_StoneWalkpath_19
+  - first:
+      213: -6166920155312821113
+    second: Pipeline_StoneWalkpath_20
+  - first:
+      213: 8393577931332365082
+    second: Pipeline_StoneWalkpath_21
+  - first:
+      213: 3549939620812591520
+    second: Pipeline_StoneWalkpath_22
+  - first:
+      213: 581942121012184418
+    second: Pipeline_StoneWalkpath_23
+  - first:
+      213: -7604570500986857772
+    second: Pipeline_StoneWalkpath_24
+  - first:
+      213: 470562849872807226
+    second: Pipeline_StoneWalkpath_25
+  - first:
+      213: -4861054250546816129
+    second: Pipeline_StoneWalkpath_26
+  - first:
+      213: -2916802064834391939
+    second: Pipeline_StoneWalkpath_27
+  - first:
+      213: 7050206756415151266
+    second: Pipeline_StoneWalkpath_28
+  - first:
+      213: 6179836704433356264
+    second: Pipeline_StoneWalkpath_29
+  - first:
+      213: 3715170002373284591
+    second: Pipeline_StoneWalkpath_30
+  - first:
+      213: -5212124524669178013
+    second: Pipeline_StoneWalkpath_31
+  - first:
+      213: -5558561332428626454
+    second: Pipeline_StoneWalkpath_32
+  - first:
+      213: 4362309890971766803
+    second: Pipeline_StoneWalkpath_33
+  - first:
+      213: -3187556308963881590
+    second: Pipeline_StoneWalkpath_34
+  - first:
+      213: 6531759534911013898
+    second: Pipeline_StoneWalkpath_35
+  - first:
+      213: -82103676330846819
+    second: Pipeline_StoneWalkpath_36
+  - first:
+      213: -9200233687526513173
+    second: Pipeline_StoneWalkpath_37
+  - first:
+      213: 5904496850314195413
+    second: Pipeline_StoneWalkpath_38
+  - first:
+      213: 6136186120965269243
+    second: Pipeline_StoneWalkpath_39
+  - first:
+      213: 4675487798238179720
+    second: Pipeline_StoneWalkpath_40
+  - first:
+      213: 9058765507928017101
+    second: Pipeline_StoneWalkpath_41
+  - first:
+      213: 515946426080328779
+    second: Pipeline_StoneWalkpath_42
+  - first:
+      213: -8454466285401741553
+    second: Pipeline_StoneWalkpath_43
+  - first:
+      213: 6216669711938275539
+    second: Pipeline_StoneWalkpath_44
+  - first:
+      213: 1006239879328245869
+    second: Pipeline_StoneWalkpath_45
+  - first:
+      213: -1630403967421062641
+    second: Pipeline_StoneWalkpath_46
+  - first:
+      213: -3061031656050825898
+    second: Pipeline_StoneWalkpath_47
+  - first:
+      213: 7689830468438296259
+    second: Pipeline_StoneWalkpath_48
+  - first:
+      213: 7287380633137112463
+    second: Pipeline_StoneWalkpath_49
+  - first:
+      213: 3929091696442014617
+    second: Pipeline_StoneWalkpath_50
+  - first:
+      213: 6911444634959027184
+    second: Pipeline_StoneWalkpath_51
+  - first:
+      213: -1187393063678788765
+    second: Pipeline_StoneWalkpath_52
+  - first:
+      213: 686970842707236899
+    second: Pipeline_StoneWalkpath_53
+  - first:
+      213: -1772389802520331260
+    second: Pipeline_StoneWalkpath_54
+  - first:
+      213: 5489224756242956155
+    second: Pipeline_StoneWalkpath_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75940f3f98b633220800000000000000
+      internalID: 2464431661349095767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc208c4c328dcd0e0800000000000000
+      internalID: -2243680866200452403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7f8682605e0270800000000000000
+      internalID: 8218594754092301031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a11161594252040800000000000000
+      internalID: 4622140815304628736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5aeb336b119ee0800000000000000
+      internalID: -1256192708038730424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5ffebef574e2e0800000000000000
+      internalID: -2097421789461258261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913eb64250cea7290800000000000000
+      internalID: -7891735890183331047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd46959f05674680800000000000000
+      internalID: -8770930631672181325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247db474b32de310800000000000000
+      internalID: 1435843114160714799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b878239f13ba0c0800000000000000
+      internalID: -4563498851045504136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fec030a33aac840800000000000000
+      internalID: 5245184185580973856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f82a33f46b5fc0800000000000000
+      internalID: -3505096889162205481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329dd1e6742c1fa0800000000000000
+      internalID: -5828743724710129091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b240681ce9684a0800000000000000
+      internalID: -6591406450595845294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745eb0b49a630d780800000000000000
+      internalID: -8660361982697020089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f969170da704f0800000000000000
+      internalID: -862530557615411191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a25048bcd0cd9b0800000000000000
+      internalID: -5054149514072085861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191e8bfb5d0e3ba0800000000000000
+      internalID: -6107429355954235110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b0b273d3f8b030800000000000000
+      internalID: 3510823999023133336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c4aef32ff14e140800000000000000
+      internalID: 4747955032470211712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ce160eac2ba6aa0800000000000000
+      internalID: -6166920155312821113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1baf9f48aafb7470800000000000000
+      internalID: 8393577931332365082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19e98d64be34130800000000000000
+      internalID: 3549939620812591520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c4ca9649731800800000000000000
+      internalID: 581942121012184418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6934b8b63277690800000000000000
+      internalID: -7604570500986857772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350a273b66c78600800000000000000
+      internalID: 470562849872807226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b11420ae01a8cb0800000000000000
+      internalID: -4861054250546816129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709b65d9ff6587d0800000000000000
+      internalID: -2916802064834391939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac1f2df0bd57d160800000000000000
+      internalID: 7050206756415151266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbba19db033c550800000000000000
+      internalID: 6179836704433356264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe295afee6fee8330800000000000000
+      internalID: 3715170002373284591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fedfd1c50daa7b0800000000000000
+      internalID: -5212124524669178013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ae5e2be50cd2b0800000000000000
+      internalID: -5558561332428626454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109b8bbbb90a8c30800000000000000
+      internalID: 4362309890971766803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d07a6ec6683c3d0800000000000000
+      internalID: -3187556308963881590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0444a4b0b875aa50800000000000000
+      internalID: 6531759534911013898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95db81342f4cdef0800000000000000
+      internalID: -82103676330846819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be56664c434325080800000000000000
+      internalID: -9200233687526513173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f36c1a9cf0f150800000000000000
+      internalID: 5904496850314195413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf621df14cc182550800000000000000
+      internalID: 6136186120965269243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f8a5716ba2e040800000000000000
+      internalID: 4675487798238179720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84c9beb3337bd70800000000000000
+      internalID: 9058765507928017101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c76a97a82092700800000000000000
+      internalID: 515946426080328779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ec1505b3bbaa80800000000000000
+      internalID: -8454466285401741553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c20a6a2c064650800000000000000
+      internalID: 6216669711938275539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682136c6d1e6fd00800000000000000
+      internalID: 1006239879328245869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ea79da34af59e0800000000000000
+      internalID: -1630403967421062641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6556dd64de70585d0800000000000000
+      internalID: -3061031656050825898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68d3e8114c7ba60800000000000000
+      internalID: 7689830468438296259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e23d531af12560800000000000000
+      internalID: 7287380633137112463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bfc58a410f68630800000000000000
+      internalID: 3929091696442014617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb138fe6426aef50800000000000000
+      internalID: 6911444634959027184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb9a6bc48858fe0800000000000000
+      internalID: -1187393063678788765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289d9a775c988900800000000000000
+      internalID: 686970842707236899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c30497dd43767e0800000000000000
+      internalID: -1772389802520331260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipeline_StoneWalkpath_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f342825d4ad2c40800000000000000
+      internalID: 5489224756242956155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8680fca28cab9e348b559b87e6084a60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pipeline_StoneWalkpath_23: 581942121012184418
+      Pipeline_StoneWalkpath_20: -6166920155312821113
+      Pipeline_StoneWalkpath_55: 5489224756242956155
+      Pipeline_StoneWalkpath_19: 4747955032470211712
+      Pipeline_StoneWalkpath_30: 3715170002373284591
+      Pipeline_StoneWalkpath_14: -8660361982697020089
+      Pipeline_StoneWalkpath_39: 6136186120965269243
+      Pipeline_StoneWalkpath_1: -2243680866200452403
+      Pipeline_StoneWalkpath_9: -4563498851045504136
+      Pipeline_StoneWalkpath_12: -5828743724710129091
+      Pipeline_StoneWalkpath_43: -8454466285401741553
+      Pipeline_StoneWalkpath_2: 8218594754092301031
+      Pipeline_StoneWalkpath_42: 515946426080328779
+      Pipeline_StoneWalkpath_10: 5245184185580973856
+      Pipeline_StoneWalkpath_33: 4362309890971766803
+      Pipeline_StoneWalkpath_17: -6107429355954235110
+      Pipeline_StoneWalkpath_32: -5558561332428626454
+      Pipeline_StoneWalkpath_53: 686970842707236899
+      Pipeline_StoneWalkpath_5: -2097421789461258261
+      Pipeline_StoneWalkpath_13: -6591406450595845294
+      Pipeline_StoneWalkpath_47: -3061031656050825898
+      Pipeline_StoneWalkpath_48: 7689830468438296259
+      Pipeline_StoneWalkpath_0: 2464431661349095767
+      Pipeline_StoneWalkpath_24: -7604570500986857772
+      Pipeline_StoneWalkpath_26: -4861054250546816129
+      Pipeline_StoneWalkpath_36: -82103676330846819
+      Pipeline_StoneWalkpath_22: 3549939620812591520
+      Pipeline_StoneWalkpath_37: -9200233687526513173
+      Pipeline_StoneWalkpath_15: -862530557615411191
+      Pipeline_StoneWalkpath_45: 1006239879328245869
+      Pipeline_StoneWalkpath_52: -1187393063678788765
+      Pipeline_StoneWalkpath_3: 4622140815304628736
+      Pipeline_StoneWalkpath_4: -1256192708038730424
+      Pipeline_StoneWalkpath_25: 470562849872807226
+      Pipeline_StoneWalkpath_34: -3187556308963881590
+      Pipeline_StoneWalkpath_35: 6531759534911013898
+      Pipeline_StoneWalkpath_51: 6911444634959027184
+      Pipeline_StoneWalkpath_49: 7287380633137112463
+      Pipeline_StoneWalkpath_54: -1772389802520331260
+      Pipeline_StoneWalkpath_18: 3510823999023133336
+      Pipeline_StoneWalkpath_40: 4675487798238179720
+      Pipeline_StoneWalkpath_41: 9058765507928017101
+      Pipeline_StoneWalkpath_27: -2916802064834391939
+      Pipeline_StoneWalkpath_16: -5054149514072085861
+      Pipeline_StoneWalkpath_7: -8770930631672181325
+      Pipeline_StoneWalkpath_38: 5904496850314195413
+      Pipeline_StoneWalkpath_44: 6216669711938275539
+      Pipeline_StoneWalkpath_21: 8393577931332365082
+      Pipeline_StoneWalkpath_31: -5212124524669178013
+      Pipeline_StoneWalkpath_6: -7891735890183331047
+      Pipeline_StoneWalkpath_29: 6179836704433356264
+      Pipeline_StoneWalkpath_46: -1630403967421062641
+      Pipeline_StoneWalkpath_28: 7050206756415151266
+      Pipeline_StoneWalkpath_50: 3929091696442014617
+      Pipeline_StoneWalkpath_11: -3505096889162205481
+      Pipeline_StoneWalkpath_8: 1435843114160714799
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
