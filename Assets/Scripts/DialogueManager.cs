@@ -51,13 +51,14 @@ public class DialogueManager : MonoBehaviour
 
     public void NextSentence()
     {
+        SoundManager.instance.StopPlaying();
+
         if(text.Count == 0)
         {
             //dialogueBox.SetActive(false);
             animator.SetBool("Done", true);
             return;
         }
-
         SoundManager.instance.PlayOnce(typingSound);
         string sentence = text.Dequeue();
         StopAllCoroutines();
@@ -74,7 +75,7 @@ public class DialogueManager : MonoBehaviour
             yield return null;
         }
 
-        SoundManager.instance.soundFXAudio.Stop();
+        SoundManager.instance.StopPlaying();
 
     }
 

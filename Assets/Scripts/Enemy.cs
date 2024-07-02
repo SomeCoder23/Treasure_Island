@@ -49,7 +49,8 @@ public class Enemy : MonoBehaviour
         distance = Vector2.Distance(transform.position, player.position);
         if (distance <= shootDistance && distance >= retreatDis)
         {
-            SoundManager.instance.PlayOnce(chasingAudio);
+            if(chasingAudio != null)
+                SoundManager.instance.PlayOnce(chasingAudio);
             //Attack();
             patrol = false;
             transform.position = Vector2.MoveTowards(transform.position, player.position, 3 * Time.deltaTime);
@@ -136,7 +137,8 @@ public class Enemy : MonoBehaviour
         {
             if (!killed)
             {
-                SoundManager.instance.PlayOnce(deathAudio);
+                if(deathAudio != null)
+                    SoundManager.instance.PlayOnce(deathAudio);
                 GetComponent<SpriteRenderer>().color = Color.HSVToRGB(0, 15, 86); //Color.Lerp(Color.red, Color.white, 20.0f);
                 PlayerController.instance.Kill(gameObject);
                 Destroy(gameObject, 1f);
@@ -185,7 +187,8 @@ public class Enemy : MonoBehaviour
             Debug.Log("Hit Enemy with " + collision.gameObject.name);
             Destroy(collision.gameObject);
             health -= damage;
-            SoundManager.instance.RandomClip(hitSounds);
+            if(hitSounds.Length > 0)
+                SoundManager.instance.RandomClip(hitSounds);
         }
     }
 

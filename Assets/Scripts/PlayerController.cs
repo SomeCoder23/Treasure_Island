@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     public Transform shootPoint;
     public bullet arrow;
     public Camera cam;
-    public AudioClip coinSound, runningAwayAudio;
+    public AudioClip coinSound, collectSound;
 
     private Vector2 position, mousePos;
     //private int health = 100; 
@@ -65,7 +65,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1"))
         {
-            SoundManager.instance.PlayOnce(runningAwayAudio);
+            //SoundManager.instance.PlayOnce(runningAwayAudio);
             if (position.x == 0 && position.y == 0){
                 if (mousePos.x > transform.localPosition.x)
                     arrow.direction = transform.right;
@@ -80,7 +80,8 @@ public class PlayerController : MonoBehaviour
     }
 
     private void FixedUpdate()
-    { 
+    {
+        position.Normalize();
         rb.MovePosition(rb.position + position * speed * Time.fixedDeltaTime);
         //Vector2 lookDir = mousePos - rb.position;
         //float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg;
@@ -102,6 +103,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.tag == "Food" || collision.gameObject.tag == "collectable" || collision.gameObject.tag == "Potion") {
             if (Inventory.instance.Add(collision.gameObject)) {
                 collision.gameObject.SetActive(false);
+                SoundManager.instance.PlayOnce(collectSound);
                 //if (gatherQuest)
                 //    quest.Evaluate(collision.gameObject.GetComponent<SpriteRenderer>().sprite);
 

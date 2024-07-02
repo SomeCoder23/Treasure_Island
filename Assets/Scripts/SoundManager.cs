@@ -34,4 +34,9 @@ public class SoundManager : MonoBehaviour
     {
         soundFXAudio.enabled = !soundFXAudio.isActiveAndEnabled;
     }
+
+    public void StopPlaying()
+    {
+        soundFXAudio.Stop();
+    }
 }

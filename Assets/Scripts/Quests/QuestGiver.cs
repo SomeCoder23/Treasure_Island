@@ -24,11 +24,12 @@ public class QuestGiver : MonoBehaviour
         }
         else
         {
-            questUI.SetActive(true);
             questDescription.text = thanksText;
+            questUI.SetActive(true);
             QuestUI.instance.FinishedQuest(this);
             Inventory.instance.RemoveQuestItems(quest.goal.requiredType, quest.goal.requiredCount);
-            SoundManager.instance.PlayOnce(thanksAudio);
+            if(thanksAudio != null)
+                SoundManager.instance.PlayOnce(thanksAudio);
             quest.giveReward();
         }
     }

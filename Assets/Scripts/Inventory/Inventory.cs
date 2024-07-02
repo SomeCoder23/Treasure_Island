@@ -60,9 +60,13 @@ public class Inventory : MonoBehaviour {
                 int count = 0;
                 if (QuestUI.instance.quests[i].quest.goal.Goal == GoalType.Gather)
                 {
-                    for (int j = 0; j < objects.Count; j++)
-                        if (QuestUI.instance.quests[i].quest.goal.requiredType == objects[j].GetComponent<SpriteRenderer>().sprite)
+                    Sprite questSprite;
+                    for (int j = 0; j < objects.Count; j++) {
+                        questSprite = QuestUI.instance.quests[i].quest.goal.requiredType;
+                        if (questSprite == objects[j].GetComponent<SpriteRenderer>().sprite || objects[j].name.Contains(questSprite.name))
                             count++;
+                    }
+                    //Debug.Log("REQUIRED TYPE: " + QuestUI.instance.quests[i].quest.goal.requiredType + " )
                     QuestUI.instance.quests[i].quest.goal.current = count;
                     QuestUI.instance.quests[i].quest.Evaluate();
 
